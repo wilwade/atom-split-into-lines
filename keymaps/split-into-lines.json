@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "split-into-lines:toggle"
+    "ctrl-alt-l": "split-into-lines:split"
   }
 }

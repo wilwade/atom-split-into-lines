@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 .DS_Store
 npm-debug.log
 node_modules
-=======
-<<<<<<< HEAD
-.DS_Store
-npm-debug.log
-node_modules
-=======
+
 # Logs
 logs
 *.log
@@ -45,5 +39,3 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> 53f8914d16cc1bc8a5c930daee5eb830e59072da
->>>>>>> 91c2d3831a2839479105c694efb5282b98db4637

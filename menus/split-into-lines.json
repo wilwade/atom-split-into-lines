@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle split-into-lines",
-        "command": "split-into-lines:toggle"
+        "label": "Split lines",
+        "command": "split-into-lines:split"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "split-into-lines",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "split-into-lines:toggle"
+              "label": "split",
+              "command": "split-into-lines:split"
             }
           ]
         }
