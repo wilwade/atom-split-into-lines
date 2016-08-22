@@ -1,11 +1,9 @@
 {
   "name": "split-into-lines",
   "main": "./lib/split-into-lines",
-
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "split-into-lines:split"
   },
@@ -14,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
