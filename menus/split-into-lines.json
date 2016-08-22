@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle split-into-lines",
+        "command": "split-into-lines:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "split-into-lines",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "split-into-lines:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
