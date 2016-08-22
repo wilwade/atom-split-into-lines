@@ -1,6 +1,7 @@
 {
   "name": "split-into-lines",
   "main": "./lib/split-into-lines",
+
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
@@ -8,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "split-into-lines:toggle"
   },
-  "repository": "https://github.com/atom/split-into-lines",
+  "repository": "https://github.com/joaoandrepsilva/atom-split-into-lines",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

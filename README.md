@@ -1,4 +1,5 @@
-# split-into-lines package
+# atom-split-into-lines package
+
 
 A short description of your package.
 
